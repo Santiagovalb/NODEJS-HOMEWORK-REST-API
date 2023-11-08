@@ -7,11 +7,11 @@
 <br/>
 <h1>imagenes <h1>
 <a href='https://ibb.co/sWGXttg/' target='_blank'>
-<img src='https://ibb.co/sWGXttg' border='0' alt='buscar'/></a>
+<img src='https://ibb.co/sWGXttg' border='0' alt=''/></a>
 
 
 <a href='https://ibb.co/6FHmMMP' target='_blank'>
-<img src='https://ibb.co/6FHmMMP' border='0' alt='add'/></a>
+<img src='https://ibb.co/6FHmMMP' border='0' alt=''/></a>
 
 
 Comandos para ejecutar en el terminal:<br/><br/>
