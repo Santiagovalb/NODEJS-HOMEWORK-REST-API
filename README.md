@@ -2,7 +2,7 @@
 <br/>
 Comandos para ejecutar en el terminal:<br/><br/>
 <b>
-<img src=`[![Captura-de-pantalla-2023-11-08-142058.png](https://i.postimg.cc/7Lgx6F5K/Captura-de-pantalla-2023-11-08-142058.png)](https://postimg.cc/7CZvtQMz)`>
+<img src=`https://ibb.co/sWGXttg`>
 
 lista de usuarios<br/><br/>
 </b>
