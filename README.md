@@ -20,7 +20,7 @@ remover un usuario por ID<br/><br/>
 </b>
 <li>node index.js --action remove --id qdggE76Jtbfd9eWJHrssH<br/><br/></li>
 <br/><br/>
-Puede usar "npm run action" seguido de la accion que desee, ya sea "list, get, add, remove",
+Puede usar "npm run action" seguido de la accion que desee, ya sea "list, get, add, remove"
  
 # goit-node-hw-01
 
